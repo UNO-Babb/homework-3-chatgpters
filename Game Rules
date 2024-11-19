@@ -1,0 +1,14 @@
+Guess the Number - Game Rules
+Objective:
+The goal of the game is to guess a secret number between 1 and 100 that the computer has randomly chosen.
+
+How to Play:
+Make a Guess: You will start the game by entering a number between 1 and 100 in the input field and clicking "Submit Guess."
+Receive Feedback: After each guess, the game will tell you whether your guess is:
+Too Low: Your guess is lower than the secret number.
+Too High: Your guess is higher than the secret number.
+Correct: You've guessed the secret number correctly, and the game will tell you how many attempts it took.
+Keep Trying: If your guess was too high or too low, simply enter a new guess and submit it again.
+Winning: Once you guess the correct number, the game will congratulate you and show the number of attempts it took. Afterward, the game will reset and you can start over.
+Game Reset:
+Each time you guess the correct number, the game resets automatically, and a new random number is chosen. You can start playing again with a fresh secret number.
